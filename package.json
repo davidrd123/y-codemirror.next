@@ -1,5 +1,5 @@
 {
-  "name": "y-codemirror.next",
+  "name": "y-codemirror.next.davidrd123",
   "version": "0.3.2",
   "description": "CodeMirror6 binding for Yjs",
   "main": "./dist/y-codemirror.cjs",
